@@ -18,4 +18,4 @@ export const assets = {
     // basket_icon
 }
 
-export const url = 'http://localhost:4000'
+export const url = 'https://food-del-foodiee-backend.onrender.com'
